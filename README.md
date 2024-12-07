@@ -94,7 +94,17 @@ The status can be updated dynamically.
 ### Contributors
 
 1. Chamal Randika Mallawaarachchi - 22ug1-0093
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+2. P.D. Imesh Madhuranga - 22ug1-0612
+=======
+>>>>>>> branch-clznamechange
 2. Deshan Weerasinghe             - 22ug1-0134
 3. P D P N Nimsara Peiris         - 22ug1-0627
 4. Imesh Madhuranga               - 22ug1-0612
 5. Ashen Mendis                   - 22ug1-0118
+<<<<<<< HEAD
+=======
+>>>>>>> 171454fd04ed6fb8c13a7fc9ae80e92a290a99ff
+>>>>>>> branch-clznamechange
