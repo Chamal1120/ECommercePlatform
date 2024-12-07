@@ -51,7 +51,7 @@ class Payment {
   +processPayment(): void
 }
 
-class Shipping {
+class ShippingInfo {
   +String shippingId
   +String address
   +String trackingId
