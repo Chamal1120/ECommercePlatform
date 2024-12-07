@@ -77,4 +77,4 @@ The status can be updated dynamically.
 
 ### Contributors
 1. Chamal Randika Mallawaarachchi - 22ug1-0093
-2. Imesh Madhuranga - 22ug1-0612
+2. P.D. Imesh Madhuranga - 22ug1-0612
