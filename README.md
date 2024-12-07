@@ -94,4 +94,5 @@ The status can be updated dynamically.
 ### Contributors
 
 1. Chamal Randika Mallawaarachchi - 22ug1-0093
-2. Deshan Weerasinghe - 22ug1-0134
+2. Deshan Weerasinghe             - 22ug1-0134
+3. P D P N Nimsara Peiris         - 22ug1-0627
