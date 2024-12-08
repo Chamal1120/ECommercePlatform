@@ -95,11 +95,6 @@ The status can be updated dynamically.
 
 1. Chamal Randika Mallawaarachchi - 22ug1-0093
 2. P.D. Imesh Madhuranga - 22ug1-0612
-2. Deshan Weerasinghe             - 22ug1-0134
-3. P D P N Nimsara Peiris         - 22ug1-0627
-4. Imesh Madhuranga               - 22ug1-0612
-5. Ashen Mendis                   - 22ug1-0118
-2. Deshan Weerasinghe - 22ug1-0134
-3. P D P N Nimsara Peiris - 22ug1-0627
-4. Imesh Madhuranga - 22ug1-0612
+3. Deshan Weerasinghe - 22ug1-0134
+4. P D P N Nimsara Peiris - 22ug1-0627
 5. Ashen Mendis - 22ug1-0118
